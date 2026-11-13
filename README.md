@@ -38,7 +38,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Je opdracht:
-  [link naar de website die je gaat namaken óf de naam/omschrijving van je eigen ontwerp](https://dunkin.nl/)
+  [link naar de website die je gaat namaken óf de naam/omschrijving van je eigen ontwerp]([https://dunkin.nl/](https://thecreativelab.shop/)
   Ik heb gekozen voor de website "The creative lab" en ik zal de home pagina en de product pagina namaken
 
   #### Screenshot(s) van de eerste pagina (small screen): 
